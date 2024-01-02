@@ -5,5 +5,5 @@
 
 # Homework map
 
-1. [[notes/校内列表\|校内列表]]
-2. [[notes/校外列表\|校外列表]]
+1. [校内任务](https://vocal-marigold-a2107c.netlify.app/notes/校内列表/)
+2. [校外任务](https://vocal-marigold-a2107c.netlify.app/notes/校外列表/)
